@@ -4,4 +4,5 @@ This project is based on understanding how excel is used to analyze business fin
 - Calculation of Net profit or loss
 - The use of certain excel formulaes such as ( sumif,count...)
 - Creating dashboards and charts
-*HII
+
+####Here is an example of the project
