@@ -49,5 +49,5 @@ Here is an example of the project:
 **Tona**
 
 ## 📜 License
-This project is open source and available for learning and educational purposes.
+This project is open source and available for learning and educational purposes. **THANK YOU**
 
